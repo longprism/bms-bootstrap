@@ -1,3 +1,3 @@
 # bms-bootstrap
 
-Static HTML for Brawijaya Millenial Summit event's website
+Static HTML for Brawijaya Millennial Summit event's website
